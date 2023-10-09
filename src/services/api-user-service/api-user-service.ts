@@ -30,8 +30,8 @@ const instance: AxiosInstance = axios.create({
     //home URL
     // baseURL: 'http://localhost:5000/api/User',
     // baseURL: 'http://localhost:5000/api/User',
-    baseURL: 'http://51.20.92.216:5000/api/User',
-    
+    // baseURL: 'http://51.20.92.216:5000/api/User',
+    baseURL: 'http://16.16.24.1:5000/api/User',
 
     // baseURL: 'http://3.125.43.47:5000/api/User'
     headers: {
